@@ -1,0 +1,6 @@
+{
+  "name": "Kaam Wala Pakistan",
+  "description": "Pakistan's trusted marketplace connecting homeowners and businesses with verified, skilled local service workers — electricians, plumbers, AC technicians, carpenters, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
